@@ -1,0 +1,101 @@
+[
+  {
+    "id": "pm_kisan",
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "jurisdiction": "Central Government",
+    "state": "All India",
+    "summary": "Central sector income-support scheme for eligible landholding farmer families, subject to scheme exclusions and verification rules.",
+    "target_group": "Farmer families",
+    "benefits": "Income support in instalments under current official guidelines. Confirm the current amount and status on the official portal.",
+    "eligibility": "Depends on land records and specified exclusion categories. Check complete current criteria on the official portal.",
+    "application": "Use the official portal or designated local agriculture/revenue facilitation channel and complete the currently required verification.",
+    "source_url": "https://pmkisan.gov.in/",
+    "category": "Agriculture",
+    "rules": {
+      "required_true": {
+        "owns_agricultural_land": true
+      },
+      "required_false": {
+        "income_tax_payer": true,
+        "specified_government_employee": true
+      }
+    },
+    "documents_text": "Confirm the current document checklist on the official portal or with the responsible department.",
+    "source_note": "Official source link supplied in the curated starter dataset. Confirm current rules before acting."
+  },
+  {
+    "id": "pmfby",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "jurisdiction": "Central Government",
+    "state": "All India",
+    "summary": "Crop insurance scheme providing protection for specified crop losses and risks under notified terms.",
+    "target_group": "Farmers growing notified crops in notified areas",
+    "benefits": "Coverage and claims depend on season, crop, area and policy conditions.",
+    "eligibility": "Depends on notified crops, notified area, season and current enrolment rules.",
+    "application": "Check the official portal and current Karnataka season notification for enrolment dates and requirements.",
+    "source_url": "https://pmfby.gov.in/",
+    "category": "Agriculture",
+    "documents_text": "Confirm the current document checklist on the official portal or with the responsible department.",
+    "source_note": "Official source link supplied in the curated starter dataset. Confirm current rules before acting."
+  },
+  {
+    "id": "kcc",
+    "name": "Kisan Credit Card (KCC)",
+    "jurisdiction": "Central Government / participating banks",
+    "state": "All India",
+    "summary": "Bank credit facility intended to support eligible farmers' cultivation and related agricultural credit needs.",
+    "target_group": "Eligible farmers and notified agricultural borrowers",
+    "benefits": "Credit limits and interest terms depend on bank assessment and current rules.",
+    "eligibility": "The lending bank assesses applicant category, cultivation or allied activity and documentation.",
+    "application": "Contact a participating bank branch or use its official application channel; request the current checklist.",
+    "source_url": "https://www.rbi.org.in/",
+    "category": "Agriculture",
+    "documents_text": "Confirm the current document checklist on the official portal or with the responsible department.",
+    "source_note": "Official source link supplied in the curated starter dataset. Confirm current rules before acting."
+  },
+  {
+    "id": "gruha_lakshmi",
+    "name": "Karnataka Gruha Lakshmi Guarantee",
+    "jurisdiction": "Karnataka Government",
+    "state": "Karnataka",
+    "summary": "Karnataka state guarantee scheme providing financial assistance to eligible women under current programme rules.",
+    "target_group": "Eligible women beneficiaries in Karnataka",
+    "benefits": "Benefit amount and payment conditions should be confirmed from current state instructions.",
+    "eligibility": "Check the latest state notification for beneficiary, household and exclusion criteria.",
+    "application": "Use Seva Sindhu or the currently designated government facilitation centre, following latest instructions.",
+    "source_url": "https://sevasindhu.karnataka.gov.in/",
+    "category": "Women & family",
+    "documents_text": "Confirm the current document checklist on the official portal or with the responsible department.",
+    "source_note": "Official source link supplied in the curated starter dataset. Confirm current rules before acting."
+  },
+  {
+    "id": "yuva_nidhi",
+    "name": "Karnataka Yuva Nidhi",
+    "jurisdiction": "Karnataka Government",
+    "state": "Karnataka",
+    "summary": "Karnataka programme for eligible unemployed graduates and diploma holders, subject to prescribed conditions.",
+    "target_group": "Eligible unemployed graduates and diploma holders in Karnataka",
+    "benefits": "Assistance amount, duration and conditions are subject to current government orders.",
+    "eligibility": "Check qualification, unemployment period, residency and exclusions in current official rules.",
+    "application": "Check the official Seva Sindhu service instructions for registration and verification.",
+    "source_url": "https://sevasindhu.karnataka.gov.in/",
+    "category": "Education & jobs",
+    "documents_text": "Confirm the current document checklist on the official portal or with the responsible department.",
+    "source_note": "Official source link supplied in the curated starter dataset. Confirm current rules before acting."
+  },
+  {
+    "id": "pmjay",
+    "name": "Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+    "jurisdiction": "Central Government with state implementation",
+    "state": "All India",
+    "summary": "Publicly funded health assurance programme for eligible beneficiary families, implemented through authorities and empanelled hospitals.",
+    "target_group": "Families identified as eligible under programme rules",
+    "benefits": "Covered services and packages are subject to scheme rules and beneficiary status.",
+    "eligibility": "Based on programme beneficiary records and applicable state arrangements. Check official beneficiary services.",
+    "application": "Verify beneficiary status through the official portal or helpline and use an empanelled hospital for covered services.",
+    "source_url": "https://pmjay.gov.in/",
+    "category": "Healthcare",
+    "documents_text": "Confirm the current document checklist on the official portal or with the responsible department.",
+    "source_note": "Official source link supplied in the curated starter dataset. Confirm current rules before acting."
+  }
+]
